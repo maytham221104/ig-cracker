@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IG Cracker v6.0 - By KingDom @Bqz
+</name>
+</assembly>
+<members>
+<member name="T:IG_Cracker_v6._0___By_KingDom__Bqz.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:IG_Cracker_v6._0___By_KingDom__Bqz.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:IG_Cracker_v6._0___By_KingDom__Bqz.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
